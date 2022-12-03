@@ -7,7 +7,7 @@ My Personal Resume Built on Azure from scratch for (Backend) as part of the Clou
 
 :wave: :wave: :wave: :wave: :wave:
 
-[Resume Coming Soon](https://www.lavellburton.net/) :star:
+[Resume Coming Soon](https://www.lavellburton.net/) :star: :star: :star:
 
 My Personal Resume Built on Azure from scratch for the (Backend) to the Cloud Resume Challenge by @Forrest Brazeal
 
