@@ -1,7 +1,4 @@
 # MicrosoftAzureResume(Backend)
-My Personal Resume Built on Azure from scratch for (Backend) as part of the Cloud Resume Challenge by @Forrest Brazeal
-
-# Microsoft Azure Resume
 
 ![Resume](https://img.shields.io/badge/Resume-UnderConstruction-orange) ![Visits](https://img.shields.io/badge/Visits-Currently%20UK-brightgreen) ![Azure Piplines](https://img.shields.io/badge/Azure%20Pipelines-UnderConstruction-orange)
 
