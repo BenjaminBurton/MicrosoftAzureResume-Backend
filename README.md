@@ -68,5 +68,4 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume-Backend-
 - Write about experience to Blog site HashNode
 
 ## Issues Encountered
-- ❌ .NET Core claims of not having SDK installed 
 - ❌ Actively Finding resolution to Issue
