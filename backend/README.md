@@ -2,7 +2,7 @@
 
 # Microsoft Azure Resume
 
-My Personal Azure Resume using resources found via tutorials, blogs and the Cloud Resume Challenge GuideBook
+My Personal Resume Built on Azure from scratch for (Backend) as part of the Cloud Resume Challenge by @forrest Brazeal
 
 ## Beginning Steps Backend
 -
