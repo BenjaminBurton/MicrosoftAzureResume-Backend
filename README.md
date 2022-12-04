@@ -36,7 +36,7 @@ https://github.com/BenjaminBurton/MicrosoftAzureResume-Backend-
 - ✅ Using VsCode to install dependencies an scripts
 
 ## API
-- ✅ HTTP trigger created in azure function via VSCode w/ .Net
+- ✅ HTTP trigger created in azure function via VSCode w/ NodeJS
 - ✅ To access the Tables API Inside of CosmosDB selected create DB and select Table API
 - ✅ added reference to access the Tables storage service through the code " using Microsoft.Azure.Cosmos.Table ";
 - ✅ A connection string for AuthN can be retrieved from the portal.
