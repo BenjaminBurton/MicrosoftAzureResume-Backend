@@ -13,7 +13,17 @@
     {
       "type": "http",
       "direction": "out",
-      "name": "res"
+      "name": "$return"
+    },
+    {
+      "type": "cosmosDB",
+      "name": "outputDocument",
+      "databaseName": "apiDB",
+      "collectionName": "Items",
+      "connectionStringSetting": "COSMOSDBConnection",
+      "direction": "in",
+      "Id": "{Query.id}"
     }
-  ]
+  ],
+  "disabled": false
 }
