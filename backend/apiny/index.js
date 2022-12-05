@@ -17,11 +17,11 @@ module.exports = async function (context, req) {
   if (id) {
     await container.items.upsert({
       id: id,
-      name: name,
+      users: users,
     });
   } else {
     await container.items.create({
-      name: name,
+      users: users,
     });
   }
 
